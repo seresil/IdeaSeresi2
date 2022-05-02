@@ -1,0 +1,2 @@
+# IdeaSeresi2
+bootstrap
